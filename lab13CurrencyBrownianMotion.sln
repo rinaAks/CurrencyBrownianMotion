@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab13CurrencyBrownianMotion", "lab13CurrencyBrownianMotion\lab13CurrencyBrownianMotion.csproj", "{48157C4F-0BD8-4380-845F-694B1CCDDBDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48157C4F-0BD8-4380-845F-694B1CCDDBDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48157C4F-0BD8-4380-845F-694B1CCDDBDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48157C4F-0BD8-4380-845F-694B1CCDDBDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48157C4F-0BD8-4380-845F-694B1CCDDBDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DA2328B-C5B7-499C-8008-BD7E40F067B1}
+	EndGlobalSection
+EndGlobal
