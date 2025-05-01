@@ -88,7 +88,7 @@ namespace lab13CurrencyBrownianMotion
             // Generator based on Box-Muller transform
             double rnd1 = (double)rnd.NextDouble();
             double rnd2 = (double)rnd.NextDouble();
-            double normalValue = Math.Sqrt(-2.0 * Math.Log10(rnd1)) * Math.Cos(2.0 * Math.PI * rnd2); 
+            double normalValue = Math.Sqrt(-2.0 * Math.Log(rnd1, Math.Exp(1))) * Math.Cos(2.0 * Math.PI * rnd2); 
 
             return normalValue;
         }
